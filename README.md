@@ -83,11 +83,11 @@ InsightForge is a sales analytics solution built using Excel for data refinement
 
 
 ## 📁 Project Files
-📄 Dashboard.png – Interactive Tableau dashboard
+📄 Dashboard Preview.png – Interactive Tableau dashboard
 
 📊 Cleaned_Data.xlsx – Cleaned dataset
 
-📝 Documentation.pdf – Methodology & explanation
+📝 Insight_Documentation.pdf – Methodology & explanation
 
 ## 💬Collaborate
 If you're seeking impactful dashboards that turn business data into opportunity maps, I’d love to collaborate. Let’s harness data for smarter decisions and stronger growth.
